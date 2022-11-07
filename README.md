@@ -6,4 +6,3 @@
 - Python 3.8.10
 - WSL (Ubuntu)
 - PyCharm 2022.2.3
-- requirements.txt generated with pip freeze
